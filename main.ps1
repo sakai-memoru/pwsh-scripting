@@ -1,4 +1,4 @@
-function main([String] $msg){
+function main($msg){
   # Write-Host 'Hello, World!'
   echo "Hello, $msg !"
 }
